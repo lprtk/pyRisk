@@ -1,7 +1,7 @@
 <h1 align="center">pyRisk for risk management in finance</h1> 
 
 <p align="center"> 
-<a href="https://github.com/lprtk/pyRisk/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/lprtk/ pyRisk"></a> 
+<a href="https://github.com/lprtk/pyRisk/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/lprtk/pyRisk"></a> 
 <a href="https://github.com/lprtk/pyRisk/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/lprtk/pyRisk"></a> 
 <a href="https://github.com/lprtk/pyRisk/stargazers"><img alt="Github Stars" src="https://img.shields.io/github/stars/lprtk/pyRisk "></a> 
 <a href="https://github.com/lprtk/pyRisk/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/lprtk/pyRisk"></a> 
