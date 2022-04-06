@@ -9,7 +9,11 @@
 </p> 
 
 ## Table of contents 
-* [Overview :loudspeaker:](#Overview) * [Content :mag_right:](#Context) * [Requirements :page_with_curl:](#Requirements) * [File details :open_file_folder:](#File-details) * [Features :computer:](#Features) 
+* [Overview :loudspeaker:](#Overview)
+* [Content :mag_right:](#Context)
+* [Requirements :page_with_curl:](#Requirements)
+* [File details :open_file_folder:](#File-details)
+* [Features :computer:](#Features) 
 
 <a id='section01'></a> 
 ## Overview 
@@ -30,28 +34,28 @@ Several functions are available: <ul>
 
 <a id='section03'></a> 
 ## Requirements
- * **Python version 3.9.7** 
+* **Python version 3.9.7** 
 
 * **Install requirements.txt** 
-```console 
+```console
 $ pip install -r requirements.txt 
 ``` 
 
 * **Librairies used**
-```python 
+```python
 import matplotlib.pyplot as plt 
-import numpy as np 
-import pandas as pd 
-import pywt 
-import scipy.stats as scs 
+import numpy as np
+import pandas as pd
+import pywt
+import scipy.stats as scs
 ``` 
 
 
 <a id='section04'></a> 
 ## File details 
 * **requirements** 
-* This folder contains a .txt file with all the packages and versions needed to run the project. *
-**pyRisk** 
+* This folder contains a .txt file with all the packages and versions needed to run the project. 
+* **pyRisk** 
 * This folder contains a .py file with all class, functions and methods. 
 * **example** 
 * This folder contains an example notebook to better understand how to use the different class and functions, and their outputs. 
@@ -59,19 +63,18 @@ import scipy.stats as scs 
 </br> 
 
 Here is the project pattern: 
-``` 
+```
 - project 
-	> pyRisk 	
-		> requirements 
-			- requirements.txt 
-		> codefile 
-			- pyRisk.py 
-		> example 
-			- example.ipynb 
+    > pyRisk	
+        > requirements 
+	    - requirements.txt 
+	> codefile 
+	    - pyRisk.py 
+	> example 
+	    - example.ipynb 
 ```
 
 <a id='section05'></a> 
 ## Features 
-<p align="center"> <a href="https://github.com/lprtk/lprtk ">My profil</a> • 
-<a href="https://github.com/lprtk/lprtk ">My GitHub</a> </p> 
-
+<p align="center"><a href="https://github.com/lprtk/lprtk ">My profil</a> • 
+<a href="https://github.com/lprtk/lprtk ">My GitHub</a></p> 
