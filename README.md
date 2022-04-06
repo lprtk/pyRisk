@@ -10,7 +10,7 @@
 
 ## Table of contents 
 * [Overview :loudspeaker:](#Overview)
-* [Content :mag_right:](#Context)
+* [Content :mag_right:](#Content)
 * [Requirements :page_with_curl:](#Requirements)
 * [File details :open_file_folder:](#File-details)
 * [Features :computer:](#Features) 
